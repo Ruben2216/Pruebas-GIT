@@ -135,6 +135,21 @@
     
 
 
+        // class Animal {
+        //     constructor() {
+        //     console.log("Ha nacido un pato. 🦆");
+        //     }
+        
+        //     hablar() {
+        //     return "Cuak";
+        //     }
+        // }
+        
+        // // Creación de instancia/objeto
+        // const pato = new Animal();  // 'Ha nacido un pato' (Se ha ejecutado implicitamente el constructor)
+        // pato.hablar();              // 'Cuak' (Se ha ejecutado explícitamente el método hablar)
+        // console.log(pato.hablar()); // 'Cuak' (Se ha ejecutado explícitamente el método hablar)
+
         class Animal {
             constructor() {
             console.log("Ha nacido un pato. 🦆");
